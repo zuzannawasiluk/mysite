@@ -8,7 +8,6 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - project_file_gz.qmd
       - mini project 1.qmd
       - economics.qmd
